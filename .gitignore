@@ -1,0 +1,17 @@
+# Compilados
+*.exe
+*.out
+*.o
+*.class
+
+# Diretórios que não devem ir para o repositório
+/bin/
+output/
+
+# Arquivos gerados durante testes
+saida*.txt
+
+# Arquivos de sistema do Windows e VSCode
+Thumbs.db
+desktop.ini
+.vscode/
